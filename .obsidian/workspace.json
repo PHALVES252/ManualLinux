@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f658bd0da3f586b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae7dc5997466f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a22b39f7d1433d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f03fffdd04f7262f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freeware e Shareware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35243bc8ef211039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software proprietario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c833e6832587d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software proprietario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb5bb0eca86fcb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundações ligadas ao Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eccc78dd21aeca19",
+    "type": "split",
+    "children": [
+      {
+        "id": "809478b17923de68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3c9fb77ecfb92d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08ccb7991a5ce725",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b5d50c73b13852",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cfb83a7898fc406",
+    "type": "split",
+    "children": [
+      {
+        "id": "553af55930d3fdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d4259ada71a7a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundações ligadas ao Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "366be41a3ba74ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fundações ligadas ao Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2cc4fa0fa3be9f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2ef880bc882582c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundações ligadas ao Linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bb5bb0eca86fcb40",
+  "lastOpenFiles": [
+    "Software proprietario.md",
+    "Fundações ligadas ao Linux.md",
+    "Software as service (SAAS).md",
+    "Freeware e Shareware.md"
+  ]
+}
